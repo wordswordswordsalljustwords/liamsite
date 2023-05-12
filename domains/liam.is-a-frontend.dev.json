@@ -8,6 +8,7 @@
 
     "records": {
         "A": ["207.178.107.147"],
+        "CNAME": "https://sites.google.com/view/hexxedgames"
         "TXT": [
             {
                 "name": "Liam",
