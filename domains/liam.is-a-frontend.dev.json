@@ -1,0 +1,19 @@
+{
+    "domain": "is-a-frontend.dev",
+    "subdomain": "liam",
+
+    "owner": {
+        "email": "liamv5130@gmail.com"
+    },
+
+    "records": {
+        "A": ["207.178.107.147"],
+        "TXT": [
+            {
+                "name": "Liam",
+            }
+        ]
+    },
+
+    "proxied": true
+}
